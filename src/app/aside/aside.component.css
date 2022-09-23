@@ -1,0 +1,13 @@
+aside {
+  background-color: blue;
+  background-image: url("../../assets/arthur.png");
+  background-size: cover;
+  display: grid;
+  place-content: center;
+  font-size: 2rem;
+  height: 100%;
+}
+h2 {
+  color: blue;
+  text-shadow: rgb(96, 96, 240) 2px 2px 15px;
+}

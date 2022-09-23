@@ -1,0 +1,11 @@
+section {
+  background-color: chartreuse;
+  height: 100%;
+  display: grid;
+  place-content: center;
+  gap: 5px;
+}
+
+p {
+  font-size: 2rem;
+}

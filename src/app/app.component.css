@@ -1,0 +1,18 @@
+div {
+  /*   min-height: 100vh;
+ */
+  margin: 1rem;
+
+  display: grid;
+  grid-template-rows: 35vh 45vh 10vh;
+  gap: 1rem;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+  margin-block-end: 1rem;
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,6 @@
+header {
+  background-color: coral;
+  display: grid;
+  place-content: center;
+  height: 100%;
+}
